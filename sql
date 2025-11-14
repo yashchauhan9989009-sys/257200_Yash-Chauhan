@@ -291,12 +291,12 @@ SELECT MIN(NAME) FROM PERSONAL_INFO; #IT TELLS US THE LOWEST VALUE OF TABLE
 +-----------+
 | MIN(NAME) |
 +-----------+
-| AAYUSH    |
+| YASH    |
 +-----------+
 
 
 +-----------+
 | MIN(NAME) |
 +-----------+
-| AAYUSH    |
+| YASH    |
 +-----------+
